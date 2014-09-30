@@ -1,0 +1,9 @@
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\bin\Debug\Result Calculator App.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result Calculator App.csprojResolveAssemblyReference.cache
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result_Calculator_App.Properties.Resources.resources
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result Calculator App.csproj.GenerateResource.Cache
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\bin\Debug\Result Calculator App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\bin\Debug\Result Calculator App.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result Calculator App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result Calculator App.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Result Calculator\Result Calculator App\obj\Debug\Result_Calculator_App.ResultCalculatorForm.resources
